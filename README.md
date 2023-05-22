@@ -1,4 +1,4 @@
-# Poca_algorithm
+# Poca Algorithm
  Point Of Closest Approach (Poca) in python 
 ========================================================
 
